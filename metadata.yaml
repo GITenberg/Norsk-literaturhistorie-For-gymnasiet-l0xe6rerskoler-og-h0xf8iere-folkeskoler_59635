@@ -1,0 +1,25 @@
+_repo: Norsk-literaturhistorie-For-gymnasiet-l0xe6rerskoler-og-h0xf8iere-folkeskoler_59635
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Broch, Chr
+    gutenberg_agent_id: '50547'
+    url: http://www.gutenberg.org/2009/agents/50547
+  - agent_name: Seip, Martin
+    gutenberg_agent_id: '50548'
+    url: http://www.gutenberg.org/2009/agents/50548
+description: ''
+gutenberg_issued: '2019-05-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59635'
+language: 'no'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Norsk literaturhistorie
+
+  For gymnasiet, lærerskoler og høiere folkeskoler'
+url: http://www.gutenberg.org/ebooks/59635
